@@ -1,3 +1,12 @@
+<!--
+  Hi, Please don't remove this line !
+
+  >> Github:  https://github.com/Polsulpicien
+  >> Discord: https://discord.gg/xm9QX3Q
+
+  Thanks <3
+-->
+
 <div align="center">
     <a href="https://discord.gg/xm9QX3Q"><img src="https://cdn.discordapp.com/avatars/647487369246801921/009169bfef18a1bf4304c0ca62a66c69.png" alt="polsu logo" height="128" style="border-radius: 50%"></a>
     <h1>Polsulpicien aka Polsu</h1>
