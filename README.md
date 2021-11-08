@@ -8,7 +8,7 @@
         <a href="https://github.com/Polsulpicien"><img src="https://img.shields.io/badge/Python-3.9-green?style=for-the-badge&logo=python&logoColor=fff" alt="Version"></a>
         <a href="https://github.com/Polsulpicien"><img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="Version"></a>
         <br>
-        <a href="https://github.com/Polsulpicien"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230066E1&title_bg=%23555555&title=Profile+Visitors&edge_flat=false" alt="Hits"></a>
+        <a href="https://github.com/Polsulpicien"><img src="https://komarev.com/ghpvc/?username=Polsulpicien&color=blue" alt="Views"></a>
 </div>
 
 ## Introduction
