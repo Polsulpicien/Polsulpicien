@@ -22,7 +22,7 @@
 
 ## Introduction
 
-👋 Hi, I’m @Polsulpicien, I'm a French Python Developer.
+👋 Hi, I’m [@Polsulpicien](https://github.com/Polsulpicien), I'm a French Python Developer.
 
 ## My Projects
 
