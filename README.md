@@ -48,5 +48,8 @@
 
 ## Contact me
 
-![Discord_](https://discord.c99.nl/widget/theme-3/647487369246801921.png)  
+<a href="https://discord.gg/xm9QX3Qr">
+  <img align="center" src="https://discord.c99.nl/widget/theme-3/647487369246801921.png" />
+</a>  
+
 If you want to send me a message, DM me on [Discord](https://discord.gg/xm9QX3Q)
