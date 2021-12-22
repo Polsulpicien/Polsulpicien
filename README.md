@@ -32,11 +32,6 @@
 <a href="https://github.com/Polsulpicien/ip-scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=ip-scanner&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000" />
 </a>
-<br>
-<br>
-<a href="https://github.com/Polsulpicien/Polsu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=Polsu&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000" />
-</a>  
 
 **[See More...](https://github.com/Polsulpicien?tab=repositories)**
 
