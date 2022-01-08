@@ -17,7 +17,7 @@
         <a href="https://github.com/Polsulpicien"><img src="https://img.shields.io/badge/Python-3.9-green?style=for-the-badge&logo=python&logoColor=fff" alt="Version"></a>
         <a href="https://github.com/Polsulpicien"><img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="Version"></a>
         <br>
-        <a href="https://github.com/Polsulpicien"><img src="https://komarev.com/ghpvc/?username=Polsulpicien&color=blue" alt="Views"></a>
+        <a href="https://github.com/Polsulpicien"><img src="https://komarev.com/ghpvc/?username=Polsulpicien&color=blueviolet&style=flat-square" alt="Views"></a>
 </div>
 
 ## Introduction
