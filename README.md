@@ -26,15 +26,18 @@
 
 ## My Projects
 
+<a href="https://github.com/Polsulpicien/ObserverAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=ObserverAPI&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000"/>
+</a>
+<a href="https://github.com/Polsulpicien/polsu-overlay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=polsu-overlay&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000"/>
+</a>
+<br>
 <a href="https://github.com/Polsulpicien/discord.py-advanced-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=discord.py-advanced-calculator&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000"/>
 </a>
 <a href="https://github.com/Polsulpicien/ip-scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=ip-scanner&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000"/>
-</a>
-<br>
-<a href="https://github.com/Polsulpicien/polsu-overlay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Polsulpicien&repo=polsu-overlay&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000"/>
 </a>
 <br>
 
