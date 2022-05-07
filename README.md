@@ -22,7 +22,12 @@
 
 ## Introduction
 
-👋 Hi, I’m [@Polsulpicien](https://github.com/Polsulpicien), I'm a French Python Developer.
+👋 Hi, I’m [@Polsulpicien](https://github.com/Polsulpicien), I'm a French Python Developer.  
+  
+I am currently working on my Discord Bot, want to check it out ? Join the Support Server or Invite Polsu! 😄  
+<div align="center">
+    <h3><a href="https://polsu.xyz">polsu.xyz</h3>
+</div>
 
 ## My Projects
 
