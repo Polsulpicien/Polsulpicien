@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-    <a href="https://discord.gg/xm9QX3Q"><img src="https://cdn.discordapp.com/avatars/647487369246801921/009169bfef18a1bf4304c0ca62a66c69.png" alt="polsu logo" height="128" style="border-radius: 50%"></a>
+    <a href="https://discord.gg/xm9QX3Q"><img src="https://cdn.discordapp.com/avatars/647487369246801921/fd032967be3e18c87205baaa98d00436.png" alt="polsu logo" height="128" style="border-radius: 50%"></a>
     <h1>Polsulpicien aka Polsu</h1>
 </div>
 <div align="center">
@@ -24,7 +24,7 @@
 
 👋 Hi, I’m [@Polsulpicien](https://github.com/Polsulpicien), I'm a French Python Developer.  
   
-I am currently working on my Discord Bot, want to check it out ? Join the Support Server or Invite Polsu! 😄  
+I am currently working on my Discord Bot, want to check it out? Join the Support Server or Invite Polsu! 😄  
 <div align="center">
     <h3><a href="https://polsu.xyz">polsu.xyz</h3>
 </div>
