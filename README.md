@@ -32,7 +32,7 @@
 
 👋 Hi, I’m [@Polsulpicien](https://github.com/Polsulpicien), I'm a french developer.  
 I'm currently studying Computer Science.  
-I mainly code in Python but I also know a few other languages which are listed bellow.
+I mainly code in Python but I also know a few other languages which are listed below.
 
 
 ## My Skills
