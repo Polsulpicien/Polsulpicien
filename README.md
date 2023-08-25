@@ -78,7 +78,7 @@ I'm currently working on Polsu.
 > - Github Stats
 > - And a lot more!
 >  
-> Polsu is currently trusted by 2 500 servers and used by 15 000 unique users.
+> Polsu is currently trusted by 3,000 servers and used by 16 000 unique users.
 >   
 > Polsu's Website: [polsu.xyz](https://polsu.xyz)  
 > Polsu's API: [api.polsu.xyz](https://api.polsu.xyz)  
